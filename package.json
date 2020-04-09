@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/napolux/puppy#readme",
   "dependencies": {
-    "puppeteer": "^1.7.0"
+    "puppeteer": "^1.20.0"
   }
 }
